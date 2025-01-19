@@ -1,2 +1,2 @@
 # huggingface-nlp-task-examples
-Example inference of all NLP tasks in HuggingFace.
+Example inference of all NLP tasks in HuggingFace. These examples contain some additional code to make them only work in SAMK AI Server and have been primarily created only for that purpose.
